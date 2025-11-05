@@ -9,3 +9,5 @@
 ## Generative AI in Azure
 [https://learn.microsoft.com/en-us/users/nitishgharde-3196/achievements/pgs6x8m4?ref=https%3A%2F%2Fwww.linkedin.com%2F]
 
+## Introduction to natural language processing concepts
+[https://learn.microsoft.com/en-us/users/nitishgharde-3196/achievements/q5jl7ake?ref=https%3A%2F%2Fwww.linkedin.com%2F]
