@@ -27,3 +27,6 @@
 
 ### 7. Computer vision in Azure
 [https://learn.microsoft.com/en-us/users/nitishgharde-3196/achievements/wv7j42bn?ref=https%3A%2F%2Fwww.linkedin.com%2F]
+
+### 8. AI-Powered Information Extraction
+[https://learn.microsoft.com/en-us/training/modules/introduction-information-extraction/8-summary#completion]
