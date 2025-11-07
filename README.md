@@ -24,3 +24,6 @@
 
 ### 6. Get started with speech in Azure
 [https://learn.microsoft.com/en-us/users/nitishgharde-3196/achievements/wv7kvj3n?ref=https%3A%2F%2Fwww.linkedin.com%2F]
+
+### 7. Computer vision in Azure
+[https://learn.microsoft.com/en-us/users/nitishgharde-3196/achievements/wv7j42bn?ref=https%3A%2F%2Fwww.linkedin.com%2F]
