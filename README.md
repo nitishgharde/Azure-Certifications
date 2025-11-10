@@ -30,3 +30,6 @@
 
 ### 8. AI-Powered Information Extraction
 [https://learn.microsoft.com/en-us/training/modules/introduction-information-extraction/8-summary#completion]
+
+### 9. AI- Speech Concepts
+[https://learn.microsoft.com/en-us/users/NitishGharde-3196/achievements/WV7URDDN?ref=https%3a%2f%2fwww.linkedin.com%2f]
