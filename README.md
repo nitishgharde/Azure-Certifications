@@ -34,6 +34,9 @@
 ### 9. AI- Speech Concepts
 [https://learn.microsoft.com/en-us/users/NitishGharde-3196/achievements/WV7URDDN?ref=https%3a%2f%2fwww.linkedin.com%2f]
 
+### 10. Model Deployment from model Catalog in Azure AI Foundry Portal
+[https://learn.microsoft.com/en-us/training/modules/explore-models-azure-ai-studio/7-summary#completion]
+
 ### 10. Prepare and Plan to develop AI solutions on Azure
 [https://learn.microsoft.com/en-us/users/nitishgharde-3196/achievements/9rxvqmru?ref=https%3A%2F%2Fwww.linkedin.com%2F]
 
